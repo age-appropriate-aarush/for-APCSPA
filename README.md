@@ -1,3 +1,8 @@
 # me-in-markdown-1
 
-Ths is the start of my letter
+Hello, my name is **Aarush Desai**, and I am 14 years old. I am attending Chatsworth High School, but obvioulsy you, as my teacher know that. I want to learn coding because I find it cool and I can learn to make new games and make cool things.
+
+Some hobbies I have are playing a game called ***F1 23*** which is a 2023 game version of the motorsport F1. I enjoy swimming, skiing, playing football, playing football, sleeping, and talking to friends. I spend a lot of time doing these things as opposed to studying becasue I like to stay extra happy. My favorite color is yellow and I like dogs a lot and I have one, but I really wish I could have a pet cheetah. My dream career is to go into politics and become President of the ***<span style="color:red">U.<span style="color:white">S.<span style="color:blue">A***.
+
+My favorite genre of music is rap/pop or hit pop. In general, I don't listen to music much, so I don't really mind which genre I listen too. The exception being country music, I'm not saying it is really bad, I just dislike listening to it. My dream car would be a Corvette Stingray or a Bugattie Chiron. Unless I get my hands on a ***<span style="color:red">McLa<span style="color:grey">ren M<span style="color:white">P4/4*** or a ***<span style="color:red">Red<span style="color:white">Bu<span style="color:yellow">ll R<span style="color:blue">B19*** (These are ***F1*** cars, the two most dominant ones). Actually I would also take a ***<span style="color:grey">Merced<span style="color:white">es F1 WO<span style="color:cyan">7 Hybrid***, and my favorite driver is Sir Lewis Hamilton. So yeah, thats all about me.
+
