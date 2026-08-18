@@ -1,7 +1,7 @@
 # Me In Markdown 2026
 
 ## A Letter To My Teacher!
-Hello, my name is **Aarush Desai**, and I am 14 years old. I am attending Chatsworth High School and am an incoming freshamn, but obvioulsy you, as my teacher know that. I want to learn coding because I find it cool and I can learn to make new games and make cool things. Coding is very intricate and requires a good amount of thinking and out-of-the-box thinking along with logical thinking which I find is necessary!
+Hello, my name is **Aarush Desai**, and I am 14 years old. I am attending Chatsworth High School and am an incoming freshman, but obvioulsy you, as my teacher know that. I want to learn coding because I find it cool and I can learn to make new games and make cool things. Coding is very intricate and requires a good amount of thinking and out-of-the-box thinking along with logical thinking which I find is necessary!
 
 Some hobbies I have are playing a game called ***F1 23*** which is a 2023 game version of the motorsport F1. I enjoy swimming, skiing, playing football, playing football, sleeping, and talking to friends. I spend a lot of time doing these things as opposed to studying becasue I like to stay extra happy. My favorite color is yellow and I like dogs a lot and I have one, but I really wish I could have a pet cheetah. My dream career is to go into politics and become President of the ***<span style="color:red">U.<span style="color:white">S.<span style="color:blue">A***.
 
