@@ -1,3 +1,16 @@
-# me-in-markdown-1
+# Me In Markdown 2026
 
-Ths is the start of my letter
+## A Letter To My Teacher!
+Hello, my name is **Aarush Desai**, and I am 14 years old. I am attending Chatsworth High School and am an incoming freshman, but obvioulsy you, as my teacher know that. I want to learn coding because I find it cool and I can learn to make new games and make cool things. Coding is very intricate and requires a good amount of thinking and out-of-the-box thinking along with logical thinking which I find is necessary!
+
+Some hobbies I have are playing a game called ***F1 23*** which is a 2023 game version of the motorsport F1. I enjoy swimming, skiing, playing football, playing football, sleeping, and talking to friends. I spend a lot of time doing these things as opposed to studying becasue I like to stay extra happy. My favorite color is yellow and I like dogs a lot and I have one, but I really wish I could have a pet cheetah. My dream career is to go into politics and become President of the ***<span style="color:red">U.<span style="color:white">S.<span style="color:blue">A***.
+
+My favorite genre of music is rap/pop or hit pop. In general, I don't listen to music much, so I don't really mind which genre I listen too. The exception being country music, I'm not saying it is really bad, I just dislike listening to it. My dream car would be a Corvette Stingray or a Bugattie Chiron. Unless I get my hands on a ***<span style="color:red">McLa<span style="color:grey">ren M<span style="color:white">P4/4*** or a ***<span style="color:red">Red<span style="color:white">Bu<span style="color:yellow">ll R<span style="color:blue">B19*** (These are ***F1*** cars, the two most dominant ones). Actually I would also take a ***<span style="color:white">Merced<span style="color:grey">es F1 WO<span style="color:cyan">7 Hybrid***, and my favorite driver is Sir Lewis Hamilton. So yeah, thats all about me.
+
+[This is my Canva Image Collage](https://www.canva.com/design/DAHSkjeMFZc/1-_LT0juVarPAq6LyZQ4zA/edit)
+
+[Link-This is my Spotify Playlist linked with all my favorite songs rather then 10 if that is fine!](https://open.spotify.com/playlist/6wh7DkQSIXvbW4lYMUiNlc?si=yTr9OsYESt6YYWuTGcCHVQ&utm_source=native-share-menu&pi=pcoj5GcFRu-tg&pt=1622dae8cd289122803d499de01b7e3e)
+
+[Link-This is an image of my favorite pokemon Lickitung](https://www.google.com/imgres?q=lickitung%20cute&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff9%2Ff4%2Fc9%2Ff9f4c9ab47c1e4e399f228589d5e0b64.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F623256035910517496%2F&docid=tBLDumIx_obqHM&tbnid=kT0NmaKT2tPl5M&vet=12ahUKEwib343Hr6mWAxWPmO4BHSm-PDYQnPAOegUIoQQQAA..i&w=736&h=1291&hcb=2&ved=2ahUKEwib343Hr6mWAxWPmO4BHSm-PDYQnPAOegUIoQQQAA)
+
+[Link-And my second favorite pokemon is Psyduck](https://www.google.com/imgres?q=psyduck&imgurl=https%3A%2F%2Farchives.bulbagarden.net%2Fmedia%2Fupload%2Fthumb%2F3%2F3f%2F0054Psyduck.png%2F800px-0054Psyduck.png&imgrefurl=https%3A%2F%2Fbulbapedia.bulbagarden.net%2Fwiki%2FPsyduck_(Pok%25C3%25A9mon)&docid=PzGV-QctWaj1TM&tbnid=2FEc4uGbY4NHqM&vet=12ahUKEwimm9G8r6mWAxXhDkQIHWTSK7kQnPAOegQIQxAA..i&w=800&h=800&hcb=2&ved=2ahUKEwimm9G8r6mWAxXhDkQIHWTSK7kQnPAOegQIQxAA)
